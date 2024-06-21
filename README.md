@@ -1,17 +1,17 @@
 # Hello World User Prompt 🎉
 
-## Table of Contents
+## Table of Contentss
 - [Description and Content](#description-and-content)
 - [Installation](#installation)
 - [Usage](#usage)
   - [Example Interaction](#example-interaction)
 - [Installation](#Repository-Link)
-- [Credits](#credits-✨)
+- [Credits](#credits)
 
-## Description and Content 📜
+## Description and Content
 This simple Python program demonstrates basic input and output operations. The program initially prints "Hello World" to the screen, prompting the user with a friendly greeting. It then asks the user to enter any text and prints the user’s input back to the screen. This project is important as it displays the functionality of input prompts and print statements.
 
-## Installation 🛠️
+## Installation
 To install and run this project locally, follow these steps:
 
 1. **Clone the repository**:
@@ -34,7 +34,7 @@ To install and run this project locally, follow these steps:
       python3 helloWorld.py
       ```
 
-## Usage 🚀
+## Usage
 After installing the project, you can use it by following these steps:
 
 1. **Run the program**:
@@ -53,12 +53,12 @@ After installing the project, you can use it by following these steps:
     - Type any text you like and press Enter.
     - The program will print back the text you entered.
 
-### Example Interaction 📷
+### Example Interaction
 ![Program Screenshot](images/programRun.png)
 
-## Credits ✨
+## Credits
 Lead Programmer
 - Ethan Lewis [GitHub Profile](https://github.com/ethanlewis938/)
 
-## Repository Link 🔗
+## Repository Link
 [View the Repository](https://github.com/ethanlewis938/helloWorldRepository)
